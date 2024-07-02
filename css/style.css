@@ -353,5 +353,8 @@ img {
         background-color: rgb(0,0,0,0.1);
         padding: 10px;
     }
+    .showcase-form {
+        width: 300px;
+    }
     
 }
